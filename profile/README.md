@@ -16,7 +16,7 @@
 
 Koinonia Technologies builds software and provides technical services for organizations in the Dominican Republic. We work with clients who have real operational problems (paper forms, manual processes, disconnected systems) and we replace them with software that people actually use in the field.
 
-**About the name.** *Koinonía* (κοινωνία) is a Greek word meaning communion: putting things in common, so that what one party has can meet another's need. It describes more than an idea or a feeling; it is a way of acting, and a way of living and being. We use it because it captures what we aim to be as a technology firm: what we know how to build, we build for whoever needs it.
+**About the name.** *Koinonía* (κοινωνία) is a Greek word meaning fellowship: putting things in common, so that what one party has can meet another's need. It describes more than an idea or a feeling; it is a way of acting, and a way of living and being. We use it because it captures what we aim to be as a technology firm: what we know how to build, we build for whoever needs it.
 
 <!-- PURPOSE STATEMENT — replace this comment with the final approved wording once selected. -->
 
