@@ -16,7 +16,7 @@
 
 Koinonia Technologies builds software and provides technical services for organizations in the Dominican Republic. We work with clients who have real operational problems (paper forms, manual processes, disconnected systems) and we replace them with software that people actually use in the field.
 
-**About the name.** *Koinonía* (κοινωνία) is a Greek word meaning communion: putting things in common, so that what one party has can meet another's need. It describes more than an idea or a feeling — it is a way of acting, and a way of living and being. We use it because it captures what we aim to be as a technology firm: what we know how to build, we build for whoever needs it.
+**About the name.** *Koinonía* (κοινωνία) is a Greek word meaning communion: putting things in common, so that what one party has can meet another's need. It describes more than an idea or a feeling; it is a way of acting, and a way of living and being. We use it because it captures what we aim to be as a technology firm: what we know how to build, we build for whoever needs it.
 
 <!-- PURPOSE STATEMENT — replace this comment with the final approved wording once selected. -->
 
@@ -50,14 +50,24 @@ Stack choices are made per project against the client's actual constraints — d
 
 ### Repositories in this organization
 
-Most repositories here are private client work. Public repositories are limited to internal tooling, templates and documentation we are able to share.
+Most repositories here are private client work. Public repositories are limited to internal tooling, templates, and documentation we are able to share.
 
 ### Contact
 
-**Michael Pimentel** — Data Analyst
+**Enmanuel Feliz** — CO-Founder
+📧 enmanuel.feliz@koinoniatechnologies.com
+📱 +1 (809) 652-1166
+📍 Santo Domingo, República Dominicana
+
+**Michael Pimentel** — CO-Founder
 📧 michael.pimentel@koinoniatechnologies.com
 📱 +1 (829) 754-3878
-📍 Santo Domingo, Dominican Republic
+📍 Santo Domingo, República Dominicana
+
+**Ernesto Mendez** — CO-Founder
+📧 ernesto.mendez@koinoniatechnologies.com
+📱 +1 (829) 930-5448
+📍 Santo Domingo, República Dominicana
 
 ---
 
