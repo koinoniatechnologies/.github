@@ -14,9 +14,9 @@
 
 ### Who we are
 
-Koinonia Technologies builds software and provides technical services for organizations in the Dominican Republic. We work with clients who have real operational problems — paper forms, manual processes, disconnected systems — and we replace them with software that people actually use in the field.
+Koinonia Technologies builds software and provides technical services for organizations in the Dominican Republic. We work with clients who have real operational problems (paper forms, manual processes, disconnected systems) and we replace them with software that people actually use in the field.
 
-**About the name.** *Koinonía* (κοινωνία) is a Greek word that describes resources actually changing hands: something one party has is transferred to another who needs it. It does not describe a feeling of community or a shared sentiment. We use it because it names what a technology firm is supposed to do — take capability that exists on our side and put it in the hands of the people who need it.
+**About the name.** *Koinonía* (κοινωνία) is a Greek word meaning communion: putting things in common, so that what one party has can meet another's need. It describes more than an idea or a feeling — it is a way of acting, and a way of living and being. We use it because it captures what we aim to be as a technology firm: what we know how to build, we build for whoever needs it.
 
 <!-- PURPOSE STATEMENT — replace this comment with the final approved wording once selected. -->
 
@@ -67,7 +67,7 @@ Most repositories here are private client work. Public repositories are limited 
 
 Koinonia Technologies desarrolla software y ofrece servicios técnicos a organizaciones en República Dominicana. Trabajamos con clientes que tienen problemas operativos concretos — formularios en papel, procesos manuales, sistemas desconectados — y los sustituimos por software que la gente efectivamente usa en el terreno.
 
-**Sobre el nombre.** *Koinonía* (κοινωνία) es una palabra griega que describe recursos que cambian de manos: algo que una parte tiene se transfiere a otra que lo necesita. No describe un sentimiento de comunidad ni una idea compartida. La usamos porque nombra lo que se supone que hace una empresa de tecnología: tomar una capacidad que existe de nuestro lado y ponerla en manos de quien la necesita.
+**Sobre el nombre.** *Koinonía* (κοινωνία) es una palabra griega que significa comunión: poner las cosas en común, de modo que aquello que una parte tiene pueda atender la necesidad de otra. No solo describe una idea o un sentimiento, sino una forma de actuar y una manera de vivir y ser. La usamos porque expresa muy bien nuestro ideal como empresa de tecnología: aquello que sabemos construir, lo construimos para quien lo necesita.
 
 <!-- DECLARACIÓN DE PROPÓSITO — sustituir este comentario por la redacción final aprobada. -->
 
@@ -85,7 +85,7 @@ Koinonia Technologies desarrolla software y ofrece servicios técnicos a organiz
 
 - **Los requerimientos se escriben y se aprueban antes de escribir código.** Cada proyecto arranca con una especificación documentada y firmada por el cliente. El trabajo no se reanuda sobre un alcance modificado hasta que el cambio esté documentado.
 - **Offline-first donde el terreno lo exige.** En entornos con cobertura móvil inestable, trabajamos por defecto con almacenamiento local y sincronización en segundo plano, en lugar de asumir que hay conexión.
-- **Las decisiones se registran de forma explícita.** Minutas, preguntas abiertas y pendientes quedan por escrito, no implícitos.
+- **Las decisiones se registran de forma explícita.** Minutas, preguntas abiertas y pendientes quedan por escrito, no implícitas.
 - **Nos quedamos después de la entrega.** Los contratos de hosting, mantenimiento y soporte forman parte del servicio estándar, no de un añadido posterior.
 
 ### Stack técnico
@@ -105,9 +105,19 @@ La mayoría de los repositorios aquí corresponden a trabajo privado de clientes
 
 ### Contacto
 
-**Michael Pimentel** — Analista de Datos
+**Enmanuel Feliz** — CO-Founder
+📧 enmanuel.feliz@koinoniatechnologies.com
+📱 +1 (809) 652-1166
+📍 Santo Domingo, República Dominicana
+
+**Michael Pimentel** — CO-Founder
 📧 michael.pimentel@koinoniatechnologies.com
 📱 +1 (829) 754-3878
+📍 Santo Domingo, República Dominicana
+
+**Ernesto Mendez** — CO-Founder
+📧 ernesto.mendez@koinoniatechnologies.com
+📱 +1 (829) 930-5448
 📍 Santo Domingo, República Dominicana
 
 ---
